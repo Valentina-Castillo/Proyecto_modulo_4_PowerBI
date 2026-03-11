@@ -23,7 +23,8 @@
 7. [Hallazgos clave](#hallazgos-clave)
 8. [Dificultades técnicas y soluciones](#dificultades-técnicas-y-soluciones)
 9. [Diseño y experiencia de usuario](#diseño-y-experiencia-de-usuario)
-10. [Tecnologías utilizadas](#estructura-del-repositorio)
+10. [Estructura del repositorio](#estructura-del-repositorio)
+11. [Tecnologías utilizadas](#tecnologías-utilizadas)
 
 
 ---
