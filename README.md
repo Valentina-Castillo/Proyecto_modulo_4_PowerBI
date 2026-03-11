@@ -307,7 +307,9 @@ El diseño del informe siguió principios de **data storytelling** orientados a 
 ---
 
 ## Estructura del repositorio
+
 Proyecto_modulo_4_PowerBI/
+
 │
 ├── 📁 Data/
 │   ├── 📁 procesada/                        # CSVs limpios exportados desde Python
