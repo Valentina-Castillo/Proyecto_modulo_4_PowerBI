@@ -4,8 +4,8 @@
 > Análisis integral del mercado de *food delivery* combinando datos de encuesta y datos operativos reales para entender el comportamiento del cliente y la eficiencia de entrega.
 
 **Autoras:** María Granero · Valentina Castillo  
-![Linkedin](https://www.linkedin.com/in/mar%C3%ADa-granero-l%C3%B3pez/)
-![Linkedin](https://www.linkedin.com/in/valentina-castillo-escobar-191863202/)
+[![LinkedIn](https://img.shields.io/badge/María_Granero-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-granero-l%C3%B3pez/)
+[![LinkedIn](https://img.shields.io/badge/Valentina_Castillo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-castillo-escobar-191863202/)
 
 **Período analizado:** 2024  
 **Herramientas:** Python · Power BI · Kaggle · DAX
