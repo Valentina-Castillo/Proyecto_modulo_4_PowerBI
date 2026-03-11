@@ -307,26 +307,26 @@ El diseño del informe siguió principios de **data storytelling** orientados a 
 ---
 
 ## Estructura del repositorio
-
+```text
 Proyecto_modulo_4_PowerBI/
 
 │
 ├── 📁 Data/
-│   ├── 📁 procesada/                        # CSVs limpios exportados desde Python
-│   │   ├── Customer online delivery dataset - Customer_data.csv
+│   ├── 📁 procesada/                        
+│   │   ├── Customer online delivery dataset  
 │   │   └── food_delivery_dataset.csv
-│   └── 📁 sin procesar/                     # CSVs originales descargados de Kaggle
-│       ├── Customer online delivery dataset - Customer_data.csv
+│   └── 📁 sin procesar/                     
+│       ├── Customer online delivery dataset 
 │       └── food_delivery_dataset.csv
 
 │
 ├── 📁 Notebooks/
-│   ├── 01_eda.ipynb                         # Exploración y análisis inicial de datos
-│   └── 02_data_cleaning.ipynb               # Limpieza y feature engineering
+│   ├── 01_eda.ipynb                         
+│   └── 02_data_cleaning.ipynb               
 │
-├── Food_delivery_análisis.pbix              # Dashboard Power BI
+├── Food_delivery_análisis.pbix             
 └── README.md
-
+```
 ## Tecnologías utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
