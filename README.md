@@ -109,7 +109,7 @@ Este proceso mejora la legibilidad del dataset y facilita su manipulación en el
 - **Limpieza de variables categóricas:** En esta sección se estandariza el formato de las variables categóricas.
 Se eliminan espacios al inicio y al final de los valores y se aplica un formato homogéneo de capitalización.
 Este proceso garantiza la consistencia de las categorías y evita la duplicación de valores equivalentes con distinta representación.
-- **Tratamiento de los valores nulos:**En esta sección se gestionan los valores nulos identificados durante el EDA con el objetivo de garantizar la consistencia y calidad del dataset.
+- **Tratamiento de los valores nulos:** En esta sección se gestionan los valores nulos identificados durante el EDA con el objetivo de garantizar la consistencia y calidad del dataset.
 Se eliminan los registros que presentan valores nulos en variables categóricas o numéricas.
 Este enfoque es apropiado dado el volumen de nulos a gestionar, hay en varias variables pero su % es muy pequeño lo que no afectará de ninguna forma nuestro análisis.
 - **Exploración del dataset limpio:** En esta sección se exportan los datasets tras aplicar los procesos de limpieza, tratamiento de nulos y transformación de variables.
