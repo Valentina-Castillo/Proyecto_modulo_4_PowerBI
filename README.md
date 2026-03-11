@@ -6,6 +6,7 @@
 **Autoras:** María Granero · Valentina Castillo  
 ![Linkedin](https://www.linkedin.com/in/mar%C3%ADa-granero-l%C3%B3pez/)
 ![Linkedin](https://www.linkedin.com/in/valentina-castillo-escobar-191863202/)
+
 **Período analizado:** 2024  
 **Herramientas:** Python · Power BI · Kaggle · DAX
 
