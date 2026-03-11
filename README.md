@@ -25,6 +25,7 @@
 9. [Diseño y experiencia de usuario](#diseño-y-experiencia-de-usuario)
 10. [Estructura del repositorio](#estructura-del-repositorio)
 
+
 ---
 
 ## Contexto y motivación
